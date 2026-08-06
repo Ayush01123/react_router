@@ -1,0 +1,8 @@
+
+.nav ul{
+  background-color: orangered;
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
